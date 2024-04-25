@@ -25,7 +25,6 @@
    - Course Memo  
    - Course overview ("architecture" of the course, constructive alignment of activities, etc.)
    - Course schedule
-   - Teaching evaluations
    - Course changes (past and ongoing)
  - Lectures
    - Slides and notes
@@ -40,6 +39,7 @@
  - Written Exam
    - Questions and rubrics
  - Operational Data (⚠️)
+   - Teaching evaluations
    - Student submissions and grades
    - FUNKA decisions 
 
