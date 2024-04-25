@@ -44,4 +44,4 @@
    - FUNKA decisions 
 
 > [!WARNING]
-> Make sure to no publish material that infringes on somebody's copyright or personal rights (e.g. no personal data according to [GDPR](https://gdpr.eu/)).
+> Make sure to not publish material that infringes on somebody's copyright or personal rights (e.g. no personal data according to [GDPR](https://gdpr.eu/)).
