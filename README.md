@@ -1,6 +1,6 @@
 > [!NOTE]
 > This is a _template_ for repositories for sharing course material with other teachers.
-> Fill out the key information, but other feel free to provide whatever information you want to share with your peers.
+> Fill out the key information, but otherwise feel free to provide whatever information you want to share with your peers.
 > Remove the alert boxes (like this one) when you are done.
 
 # PAxxxx: Name of the Course
@@ -18,8 +18,8 @@
 ### Material Checklist
 
 > [!NOTE]
-> The following is a list of typical course material.
-> For each them, provide link either inside this repository, or to some other system (e.g., other repositories or Sharepoint folder).
+> What follows is a list of typical course material.
+> For each them, provide a link either inside this repository, or to somewhere else (e.g., other repositories or Sharepoint folder).
 
  - Organization
    - Course Memo  
